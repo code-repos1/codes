@@ -1,7 +1,7 @@
 #!/bin/bash
-#A calculator script
-#Author Karlson
-#Email kohkarlson@gmail.com
+# A calculator script
+# Author : Karlson
+# Email : kohkarlson@gmail.com
 
 Addition() {
 	read -p "Enter first number: " num1
